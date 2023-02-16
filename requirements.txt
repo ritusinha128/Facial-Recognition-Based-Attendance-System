@@ -50,7 +50,7 @@ tensorflow-estimator==2.1.0
 termcolor==1.1.0
 urllib3==1.26.5
 visitor==0.1.3
-Werkzeug==1.0.0
+Werkzeug==2.2.3
 wrapt==1.12.1
 xlrd==1.2.0
 XlsxWriter==1.2.8
